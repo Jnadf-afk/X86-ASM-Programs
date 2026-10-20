@@ -11,6 +11,7 @@
 ### Loops
 no terminal output. Increments the address r10b to 25 and ends.
 
-
+### Fibonacci
+No terminal output. Performs the Fibonacci sequence in address r8 
 
 All programs were created with https://asm-editor.specy.app/
