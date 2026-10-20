@@ -9,7 +9,7 @@
   Sends your inputs back as an output
 
 ### Loops
-no terminal output. increments an adress to 25 and ends.
+no terminal output. Increments the address r10b to 25 and ends.
 
 
 
